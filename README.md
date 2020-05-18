@@ -1,3 +1,3 @@
 # ElektroPriem
 
-Общее описание проекта в [project.md](/project.md)
+Общее описание элементов проекта в [project.md](/project.md).
